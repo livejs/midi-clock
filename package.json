@@ -1,6 +1,6 @@
 {
   "name": "midi-clock",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Creates a virtual midi clock ticking at 24 PPQ",
   "main": "index.js",
   "scripts": {
