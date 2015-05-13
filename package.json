@@ -1,7 +1,7 @@
 {
   "name": "midi-clock",
   "version": "0.0.0",
-  "description": "Creates a virtual midi clock ticking at 96 PPQ",
+  "description": "Creates a virtual midi clock ticking at 24 PPQ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

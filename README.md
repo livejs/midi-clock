@@ -1,7 +1,7 @@
 midi-clock
 ===
 
-Creates a virtual midi clock ticking at 96 PPQ
+Creates a virtual midi clock ticking at 24 PPQ
 
 ## Install
 
